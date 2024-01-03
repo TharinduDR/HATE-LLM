@@ -1,0 +1,502 @@
+[
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER She should ask a few native Americans what their take on this is.",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER Go home you\u2019re drunk!!! @USER #MAGA #Trump2020 \ud83d\udc4a\ud83c\uddfa\ud83c\uddf8\ud83d\udc4a URL",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "Amazon is investigating Chinese employees who are selling internal data to third-party sellers looking for an edge in the competitive marketplace. URL #Amazon #MAGA #KAG #CHINA #TCOT",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Someone should'veTaken\" this piece of shit to a volcano. \ud83d\ude02\"",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER Obama wanted liberals &amp; illegals to move into red states",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Liberals are all Kookoo !!!",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER Oh noes! Tough shit.",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER was literally just talking about this lol all mass shootings like that have been set ups. it\u2019s propaganda used to divide us on major issues like gun control and terrorism",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Buy more icecream!!!",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Canada doesn\u2019t need another CUCK! We already have enough #LooneyLeft #Liberals f**king up our great country! #Qproofs #TrudeauMustGo",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER It\u2019s not my fault you support gun control",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER What\u2019s the difference between #Kavanaugh and @USER   One of these men admitted to groping a 15 year old girl years ago.  The other is going to be #confirmed to the SCJ   #DemsareFrauds #DemsAreDone   #WalkAwayDemocrats2018 #redwave #VoteRedSaveAmerica #trumptrain #MAGA URL",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER you are a lying corrupt traitor!!! Nobody wants to hear anymore of your lies!!! #DeepStateCorruption URL",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER It should scare every American!  She is playing Hockey with a warped puck!",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER I like my soda like I like my boarders with a lot of ICE.",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER you are also the king of taste",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "#MAGA @USER  \ud83c\udfb6 Sing like no one is listening  \u2665\ufe0f Love like you've never been hurt  \u2714\ufe0f Vote GOP when no one is watching  \ud83d\ude49  And don't listen to Liberals' dirt URL",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "5/5: @USER The time is right for this House to respond to the concerns of all Canadians. Four out of five Canadians support stronger gun control and with good reason.\u201d #guncontrol #cdnpoli #cdnhist\"",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Besides Jax\u2019s mom and maybe Ope he is hands down my favorite he\u2019s like the only good person on the show \ud83d\ude02",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER gun control! That is all these kids are asking for!",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER @USER LOL!!!   Throwing the BULLSHIT Flag on such nonsense!!  #PutUpOrShutUp   #Kavanaugh   #MAGA   #CallTheVoteAlready URL",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER You are correct.",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER Kind of like when conservatives wanna associate everyone to their left as communist antifa members?",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER Da fuck is going on people?   There's the men's room and the women's room  Pick one and stick w it \ud83e\udd14",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Been a Willie fan since before most of you were born....LOVE that he is holding a rally with Beto.... Exactly WHICH fans are furious?  Could you give some specifics? URL",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Tbh these days i just don't like people in general i just don't connect with people these days just a annoyance..",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "South Korean Official: \u201cLeaders will discuss specific denuke measures in Pyongyang\u201d\"  URL #TCOT #MAGA #RedNationRising\"",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER You can tell he is a hooper too",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER I feel like he is better chasing the title",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER She?  To whom are you referring to?  Hillary?  You know what is tiresome?  Bernie supporters bashing Hillary Clinton.  She is an actual Democrat who raises money for the Democratic Party and doesn\u2019t bash them.  She has a positive message.  So who is dividing the left?",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Glad to see your friends are supporting Metis rights as much as you are supporting Zionists. URL",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Yes you are but I was asking what is it about the movie ?\ud83e\udd37\u200d\u2642\ufe0f\ud83d\udc40",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "The only thing the Democrats have is lying and stalling to stop Trump from being #President.  What have they done for you lately. #Trump #Kavanaugh #MAGA #DEMSUCK",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER No wonder he is being apologetic and more social these day....",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER Any updates re ending your blatant #racism as #Windrush &amp; #Grenfell proves you are  @USER @USER #alloutpolitics #politicslive #PMQs @USER URL",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER Do you know what\u2019s going to happen now?  I\u2019m going to have to lay in bed and cry while I listen to Kelly Clarkson. Thanks free speech antifa.",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER You are not very smart are you? Why do you think Gen Flynn\u2019s sentencing keeps being rescheduled? URL",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER That's expected if you placate the violent leftists/terrorists. #KavanaughConfirmation #woke",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Blow hard",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER That means you are a max lvl. Twitter user and maybe should try a new game",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER Please explain what controlled opposition\" means.  As for Bernier escaping, he split with the rest of the Conservatives because he's even more racist and exclusionary than they want to be.\"",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER @USER @USER Socialists politics that stand up for the downtrodden. And well done for conflating criticism of Israel with anti semitism. You are also part of the problem.",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "3. Nina  One of the reasons I didn't read this book for so long was because I was SO WORRIED about her character. I should've trusted everyone. Nina is a goddamn goddess I would die for a thousand times over. She is big and bold and lovely and PERFECT. HER ARC. IS. PERFECT.",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": ".@USER @USER @USER @USER @USER  PLEASE vote NO on Kavanaugh. He is not fit for SCOTUS and allegations about women and shady financials should disqualify him.    #RuleOfLaw matters. #MeToo #CountryOverParty #WithdrawKavanaugh  #StopKavanaugh",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER Ppl who say I'm not racist\" are racist. You Are A Racist. Repeat after me\"",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Kathy the Patriot\ud83d\uddfd  YOU HAVE TO LOVE our GREAT PRESIDENT TRUMP!!!  A SPINE OF U.S. STEEL!! CHANGING IT! ON TRADE &amp; EVERYTHING FOR AMERICANS!! #AMERICAFIRST #USA #MAGA #LEADERSHIP &amp; #RESPECT #ECONOMY #JOBS #PEACEthruSTRENGTH #GOD #BLESS #TRUMP &amp; #THEUSA     \ud83d\ude00 \ud83d\uddfd\ud83d\uddfd\ud83d\uddfd \ud83d\ude00",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Wow you liberals really don\u2019t have a sense of humor.\ud83d\ude44",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER I'M SO FUCKING READY",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Holy moly!! If the catholic people haven't been awakened by this ..... #FalseProphet  #Lunatic",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Lol yeah per dina he is There everyday per claudia no horse got vet care unless it was for donation example limping etc",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER What a surprise.... same as antifa. BLM and so on and so on. Soros is Americas worst enemy in HISTORY. He believes the only way to take down the USA is from withing. And hes right. But it's not gunna happen.",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Me too! Her wedding was the best! She is very pretty!",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER No conflict here\u2014don\u2019t look at this.  #Soros involved in violent left agenda of Antifa also.",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER URL any of your announcements every come to fruition or is it basically stealing Labour's ideas to get a few more votes",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "4 out of 10 British people are basically full-on racists. 4 out of 10 voters vote for the Conservatives. Coincidence!???!???",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "#GUNCONTROL advocates must STOP falling all over themselves to assure electorate that they too love the HORRIFIC 2A URL",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER Hi there! We love what a huge fan of Camila Mendes you are! Would it be alright if we used your tweet about her in our promotional material?",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Fuck off",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Certainly a weird view toward the Margaret Sanger geonicidal philosophy of aborting minorities.  I\u2019d like to know if the black population that suffers the most shares her opinion",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER The prison system is so fucked.  Why are they still getting away with what is potentially murder with intent if the prisoners die in the hurricane? They did this in Louisiana and like 500 inmates went missing\"\"",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER She is useless.  Attempts to do the right thing but never follows through.",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "#WalkAway liberals......Your party is POISON. URL",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Grateful Trump doesn\u2019t have a dog in the White House. He is a cruel man.",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER You are lying. Stick with the facts. We pay more than that now.",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Trump kicks dem butt - its so fun.",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER He is dumb and dumber all in one president.  It's a two for one.",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "#Toxictory minister @USER attempted to expense \u00a350 charity donation! It's what  @USER do!! @USER #Toriesmustgo #DissolveTheUnion  URL",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER ur so straight forword man\ud83d\udc4c i saw u in dance dewwane and ur just talk free ky ap kitnay porrany ho industry mein and i really like ur this quality that u even gather with ur senior\ud83d\udc9a artist love for #Manmarziyaan \ud83e\udd20\ud83d\udc4d",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER And this from the clown that should be in prison?",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER @USER did Twitter silence alex jones in retaliation of him asking Twitter jack questions  @USER @USER @USER @USER URL",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Thats because you are an old man.",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER They are obstructionists. Anti-american. Pharisees. Ask them what they are running on and you get nothing. Maga!",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER No you're not..you're here 2 represent the Alinskyite Orwellian Leftist Tool&amp;Fool view on things..like 99.9% of the Marxists&amp;Antifa similar 2U..psst! And B4U use the words fascist or fascism again go ahead &amp; read D'Souza's book The Big Lie\"..right now U know SQUAT about either..\"",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER I do remember. :( But somehow centrist\" antifa-haters can never quite seem to bring themselves to condemn such things.\"",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER I mean it worked for gun control right? URL",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER I think the last thing on the WH or Trump's mind is April Ryan. She needs to stop flattering herself. She's not as important as she thinks she is.",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Principled conservatives are #Hypocrickets",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER @USER Don't forget @USER &amp; Democrat backed #Antifa",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER She is a beautiful person to teach values to her kids. Teaching them they are royalty but keep to keep it from going to their heads. Stay real \u2764\ufe0f",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Bring out his Antifa criminal son to campaign for him",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER I didn\u2019t watch and will not watch @USER Watching the September 11th stories and how we came together and stood shoulder to shoulder made me proud even with all of our issues yet the people playing a damn game cannot stand for this moment\u2014protest on a Saturday.",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "A tear is made of 1% water and 99% feelings.",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER Trump addresses gun control representing the NRA.  I will not let you down\" he says. URL",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER She is drinking so much koolaid she\u2019s bloated.",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Holder needs to be prosecuted",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER But... But... BOTH PLAYERS WERE WOMEN. And BOTH WERE WOMEN OF COLOR!",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER @USER The Institution only let her tweet when she behaves. She is a Window Licker!!!!",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "*babysitting 3 kids*  people:\u201dhow old do you think she is?\u201d \u201cshe has three kids\u201d  me:*dont get mad. don\u2019t get mad. they don\u2019t know. they don\u2019t know*",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER well...? URL",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "WTC This is a threat!!! ..@USER #Maga #QAnon #WakeUpAmerica URL",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER It's easily digestible content.   There's no need for nuance or to even understand the story.  They can show a picture of an ANTIFA\" and get the base level emotional response their content requires in order to be profitable.\"",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER Try looking for plain old democrats.  The liberals are the ones which you can\u2019t have a conversation with.",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER Great news! Old moonbeam Just went into a coma! \ud83d\ude02",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER OMG HE IS SO EXTRA ILY",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER @USER Please call trump out for what he is...a NARCISSISTIC SOCIOPATH!",
+    "output": "This is an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER Unfortunately in America a system like that would be called racist. Liberals believe exams are racist against minority groups.",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER I know! She is still alive....but wondering if her career was railroaded? Odd! Loved her...especially that day!",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER Guy you are always present...bet why? Lol",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER @USER what a baby! URL",
+    "output": "This is not an offensive Tweet"
+  },
+  {
+    "instruction": "Comments containing any form of non-acceptable language (profanity) or a targeted offence, which can be veiled or direct, are offensive comments. This includes insults, threats, and posts containing profane language or swear words. Comments that do not contain offence or profanity are not offensive. Is this tweet offensive or not?",
+    "input": "@USER you are very persuasive fam",
+    "output": "This is not an offensive Tweet"
+  }
+]
