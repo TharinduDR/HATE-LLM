@@ -55,7 +55,7 @@ def train(
     # model/data params
     base_model_type: str = "",
     base_model: str = "",
-    data_path: str = "",
+    data_path: str = "output_solid.json",
     output_dir: str = "./lora-alpaca",
     # training hyperparams
     batch_size: int = 128,
@@ -77,9 +77,9 @@ def train(
     add_eos_token: bool = False,
     group_by_length: bool = False,  # faster, but produces an odd training loss curve
     # wandb params
-    wandb_project: str = "",
+    wandb_project: str = "HATE-LLM",
     wandb_run_name: str = "",
-    wandb_watch: str = "",  # options: false | gradients | all
+    wandb_watch: str = "all",  # options: false | gradients | all
     wandb_log_model: str = "",  # options: false | true
     resume_from_checkpoint: str = None,  # either training checkpoint or final adapter
     prompt_template_name: str = "alpaca",  # The prompt template to use, will default to alpaca.
@@ -117,7 +117,6 @@ def train(
         base_model
     ), "Please specify a --base_model, e.g. --base_model='huggyllama/llama-7b'"
     gradient_accumulation_steps = batch_size // micro_batch_size
-
 
     prompter = Prompter(prompt_template_name)
 
