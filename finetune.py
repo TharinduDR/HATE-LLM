@@ -90,7 +90,7 @@ def print_trainable_parameters(model):
 def train(
         # model/data params
         base_model: str = "",  # the only required argument
-        data_path: str = "yahma/alpaca-cleaned",
+        data_path: str = "output_solid.json",
         output_dir: str = "./lora-alpaca",
         device_map: str = "auto",
         # training hyperparams
@@ -113,10 +113,10 @@ def train(
         add_eos_token: bool = False,
         group_by_length: bool = False,  # faster, but produces an odd training loss curve
         # wandb params
-        wandb_project: str = "",
+        wandb_project: str = "HATE_LLM",
         wandb_run_name: str = "",
-        wandb_watch: str = "",  # options: false | gradients | all
-        wandb_log_model: str = "",  # options: false | true
+        wandb_watch: str = "all",  # options: false | gradients | all
+        wandb_log_model: str = "true",  # options: false | true
         resume_from_checkpoint: str = None,  # either training checkpoint or final adapter
         prompt_template_name: str = "alpaca",  # The prompt template to use, will default to alpaca.
         # experimental
