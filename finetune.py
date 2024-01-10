@@ -55,7 +55,7 @@ def train(
     # model/data params
     base_model_type: str = "",
     base_model: str = "",
-    data_path: str = "yahma/alpaca-cleaned",
+    data_path: str = "",
     output_dir: str = "./lora-alpaca",
     # training hyperparams
     batch_size: int = 128,
