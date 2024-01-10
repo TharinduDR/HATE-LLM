@@ -36,6 +36,7 @@ LORA_CONFIG = {
     }
 }
 
+
 def print_trainable_parameters(model):
     """
     Prints the number of trainable parameters in the model.
@@ -52,37 +53,37 @@ def print_trainable_parameters(model):
 
 
 def train(
-    # model/data params
-    base_model_type: str = "",
-    base_model: str = "",
-    data_path: str = "output_solid.json",
-    output_dir: str = "./lora-alpaca",
-    # training hyperparams
-    batch_size: int = 128,
-    micro_batch_size: int = 4,
-    num_epochs: int = 3,
-    learning_rate: float = 3e-4,
-    cutoff_len: int = 256,
-    val_set_size: int = 2000,
-    # lora hyperparams
-    lora_r: int = 8,
-    lora_alpha: int = 16,
-    lora_dropout: float = 0.05,
-    # lora_target_modules: List[str] = [
-    #     "q_proj",
-    #     "v_proj",
-    # ],
-    # llm hyperparams
-    train_on_inputs: bool = True,  # if False, masks out inputs in loss
-    add_eos_token: bool = False,
-    group_by_length: bool = False,  # faster, but produces an odd training loss curve
-    # wandb params
-    wandb_project: str = "HATE-LLM",
-    wandb_run_name: str = "",
-    wandb_watch: str = "all",  # options: false | gradients | all
-    wandb_log_model: str = "",  # options: false | true
-    resume_from_checkpoint: str = None,  # either training checkpoint or final adapter
-    prompt_template_name: str = "alpaca",  # The prompt template to use, will default to alpaca.
+        # model/data params
+        base_model_type: str = "",
+        base_model: str = "",
+        data_path: str = "output_solid.json",
+        output_dir: str = "./lora-alpaca",
+        # training hyperparams
+        batch_size: int = 128,
+        micro_batch_size: int = 4,
+        num_epochs: int = 3,
+        learning_rate: float = 3e-4,
+        cutoff_len: int = 256,
+        val_set_size: int = 2000,
+        # lora hyperparams
+        lora_r: int = 8,
+        lora_alpha: int = 16,
+        lora_dropout: float = 0.05,
+        # lora_target_modules: List[str] = [
+        #     "q_proj",
+        #     "v_proj",
+        # ],
+        # llm hyperparams
+        train_on_inputs: bool = True,  # if False, masks out inputs in loss
+        add_eos_token: bool = False,
+        group_by_length: bool = False,  # faster, but produces an odd training loss curve
+        # wandb params
+        wandb_project: str = "HATE-LLM",
+        wandb_run_name: str = "",
+        wandb_watch: str = "all",  # options: false | gradients | all
+        wandb_log_model: str = "",  # options: false | true
+        resume_from_checkpoint: str = None,  # either training checkpoint or final adapter
+        prompt_template_name: str = "alpaca",  # The prompt template to use, will default to alpaca.
 ):
     lora_target_modules = LORA_CONFIG[base_model_type]
     if int(os.environ.get("LOCAL_RANK", 0)) == 0:
@@ -112,7 +113,6 @@ def train(
             f"prompt template: {prompt_template_name}\n"
         )
 
-
     assert (
         base_model
     ), "Please specify a --base_model, e.g. --base_model='huggyllama/llama-7b'"
@@ -129,7 +129,7 @@ def train(
 
     # Check if parameter passed or if set within environ
     use_wandb = len(wandb_project) > 0 or (
-        "WANDB_PROJECT" in os.environ and len(os.environ["WANDB_PROJECT"]) > 0
+            "WANDB_PROJECT" in os.environ and len(os.environ["WANDB_PROJECT"]) > 0
     )
     # Only overwrite environ if wandb param passed
     if len(wandb_project) > 0:
@@ -166,9 +166,9 @@ def train(
             return_tensors=None,
         )
         if (
-            result["input_ids"][-1] != tokenizer.eos_token_id
-            and len(result["input_ids"]) < cutoff_len
-            and add_eos_token
+                result["input_ids"][-1] != tokenizer.eos_token_id
+                and len(result["input_ids"]) < cutoff_len
+                and add_eos_token
         ):
             result["input_ids"].append(tokenizer.eos_token_id)
             result["attention_mask"].append(1)
@@ -197,10 +197,10 @@ def train(
                 user_prompt_len -= 1
 
             tokenized_full_prompt["labels"] = [
-                -100
-            ] * user_prompt_len + tokenized_full_prompt["labels"][
-                user_prompt_len:
-            ]  # could be sped up, probably
+                                                  -100
+                                              ] * user_prompt_len + tokenized_full_prompt["labels"][
+                                                                    user_prompt_len:
+                                                                    ]  # could be sped up, probably
         return tokenized_full_prompt
 
     model = prepare_model_for_int8_training(model)
