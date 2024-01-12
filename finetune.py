@@ -17,12 +17,14 @@ from peft import (
     LoraConfig,
     get_peft_model,
     get_peft_model_state_dict,
-    prepare_model_for_int8_training,
+    prepare_model_for_kbit_training,
     set_peft_model_state_dict,
 )
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 from utils.prompter import Prompter
+
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 LORA_CONFIG = {
     'falcon': ["query_key_value"],
@@ -31,19 +33,19 @@ LORA_CONFIG = {
 }
 
 
-def print_trainable_parameters(model):
-    """
-    Prints the number of trainable parameters in the model.
-    """
-    trainable_params = 0
-    all_param = 0
-    for _, param in model.named_parameters():
-        all_param += param.numel()
-        if param.requires_grad:
-            trainable_params += param.numel()
-    print(
-        f"trainable params: {trainable_params} || all params: {all_param} || trainable%: {100 * trainable_params / all_param}"
-    )
+# def print_trainable_parameters(model):
+#     """
+#     Prints the number of trainable parameters in the model.
+#     """
+#     trainable_params = 0
+#     all_param = 0
+#     for _, param in model.named_parameters():
+#         all_param += param.numel()
+#         if param.requires_grad:
+#             trainable_params += param.numel()
+#     print(
+#         f"trainable params: {trainable_params} || all params: {all_param} || trainable%: {100 * trainable_params / all_param}"
+#     )
 
 
 def train(
@@ -57,7 +59,7 @@ def train(
         micro_batch_size: int = 4,
         num_epochs: int = 3,
         learning_rate: float = 3e-4,
-        cutoff_len: int = 256,
+        cutoff_len: int = 512,
         val_set_size: int = 2000,
         # lora hyperparams
         lora_r: int = 8,
@@ -140,8 +142,6 @@ def train(
         device_map=device_map,
     )
 
-    print_trainable_parameters(model)
-
     tokenizer = AutoTokenizer.from_pretrained(base_model)
 
     tokenizer.pad_token_id = (
@@ -197,7 +197,7 @@ def train(
                                                                     ]  # could be sped up, probably
         return tokenized_full_prompt
 
-    model = prepare_model_for_int8_training(model)
+    model = prepare_model_for_kbit_training(model)
 
     config = LoraConfig(
         r=lora_r,
